@@ -1,9 +1,6 @@
 # Srijan
 
-Check out the site here - 
-1. Netlify: https://srijan-shop.netlify.app/
-2. Vercel: https://srijan-shop.vercel.app/
-3. GitHub Pages: https://rahulkarda.github.io/Srijan/
+
  
 Welcome to Srijan, the ultimate destination for custom-designed gifts, products, and authentic Desi and old Indian art-designed products. Our passion for unique designs and quality products has made us a national-level brand that caters to the needs of individuals, corporates, and gifting enthusiasts.
 
